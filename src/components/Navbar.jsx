@@ -3,6 +3,7 @@ import Button from "./Button";
 import { TiLocationArrow } from "react-icons/ti";
 import { useWindowScroll } from "react-use";
 import gsap from "gsap";
+import logo from "../../public/img/zentry-logo.png";
 
 const navItems = ["Nexus", "Vault", "Prologue", "About", "Contact"];
 const Navbar = () => {
@@ -60,7 +61,11 @@ const Navbar = () => {
       <header className=" absolute w-full top-1/2 -translate-y-1/2">
         <nav className="flex items-center justify-between size-full p-4">
           <div className="flex items-center gap-7">
-            <img src="/img/zentry-logo.png" alt="logo" className="w-10" />
+            <img
+              src="https://riidha-bennafla.github.io/zentry-clone/img/zentry-logo.png"
+              alt="logo"
+              className="w-10"
+            />
 
             <Button
               id={"product-button"}
