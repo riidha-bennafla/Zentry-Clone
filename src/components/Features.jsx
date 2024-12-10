@@ -159,7 +159,9 @@ const Features = () => {
                   m<b>o</b>re <br /> co<b>m</b>ing <br /> s<b>o</b>on{" "}
                 </>
               }
-              logo={"/img/zentry-logo.png"}
+              logo={
+                "https://riidha-bennafla.github.io/zentry-clone/img/zentry-logo.png"
+              }
             />
           </BentoTilt>
         </div>
