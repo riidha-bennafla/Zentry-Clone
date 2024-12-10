@@ -66,7 +66,7 @@ const Story = () => {
                   onMouseLeave={handleMouseLeave}
                   onMouseUp={handleMouseLeave}
                   onMouseEnter={handleMouseLeave}
-                  src="/img/entrance.webp"
+                  src="https://riidha-bennafla.github.io/zentry-clone/img/entrance.webp"
                   alt="entrance.webp"
                   className="object-contain"
                 />

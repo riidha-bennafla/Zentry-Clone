@@ -99,7 +99,7 @@ const Features = () => {
         <div className="grid h-[220vh] grid-cols-1 grid-rows-7 gap-5 md:h-[280vh] md:gap-7 lg:grid-cols-4 lg:grid-rows-5">
           <BentoTilt className="bento-tilt_1 row-span-2 lg:col-span-4">
             <BentoCard
-              src="/videos/feature-1.mp4"
+              src="https://riidha-bennafla.github.io/zentry-clone/videos/feature-1.mp4"
               title={
                 <>
                   radi<b>a</b>nt
@@ -112,7 +112,7 @@ const Features = () => {
 
           <BentoTilt className="bento-tilt_1 row-span-1 ms-36 sm:ms-52 md:ms-72 lg:ms-0 lg:col-end-5 lg:col-span-2">
             <BentoCard
-              src="/videos/feature-3.mp4"
+              src="https://riidha-bennafla.github.io/zentry-clone/videos/feature-3.mp4"
               title={
                 <>
                   n<b>e</b>xus
@@ -124,7 +124,7 @@ const Features = () => {
 
           <BentoTilt className="bento-tilt_1 row-span-1 me-16 sm:me-20 md:me-24 lg:me-0 lg:col-end-5 lg:col-span-2">
             <BentoCard
-              src="/videos/feature-4.mp4"
+              src="https://riidha-bennafla.github.io/zentry-clone/videos/feature-4.mp4"
               title={
                 <>
                   Az<b>u</b>l
@@ -136,7 +136,7 @@ const Features = () => {
 
           <BentoTilt className=" bento-tilt_1 row-span-2 ms-20 sm:ms-40 md:ms-40 lg:ms-0 lg:col-span-2 lg:row-start-3">
             <BentoCard
-              src="/videos/feature-2.mp4"
+              src="https://riidha-bennafla.github.io/zentry-clone/videos/feature-2.mp4"
               title={
                 <>
                   zeg<b>m</b>a
@@ -147,7 +147,7 @@ const Features = () => {
           </BentoTilt>
 
           <BentoTilt className="bento-tilt_1 row-span-1 hidden lg:col-end-5 lg:col-span-2 lg:block">
-            <BentoCard src="/videos/feature-5.mp4" />
+            <BentoCard src="https://riidha-bennafla.github.io/zentry-clone/videos/feature-5.mp4" />
           </BentoTilt>
 
           <BentoTilt className="bento-tilt_1 row-span-1 lg:row-start-5 lg:col-span-2">

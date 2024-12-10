@@ -97,7 +97,7 @@ const Navbar = () => {
               <audio
                 ref={audioElementRef}
                 className="hidden"
-                src="/audio/loop.mp3"
+                src="https://riidha-bennafla.github.io/zentry-clone/audio/loop.mp3"
                 loop
               />
 
